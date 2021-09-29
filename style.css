@@ -5,6 +5,10 @@
     margin: auto;
 }
 
+h1 {
+    font-family: "Roboto", sans-serif;
+}
+
 .form {
     position: absolute;
     z-index: 1;
@@ -24,7 +28,8 @@
     margin: 0 0 15px;
     padding: 15px;
     box-sizing: border-box;
-    font-size: 14px;
+    font-size: 30px;
+    text-align: center;
 }
 
 .form button .login {
